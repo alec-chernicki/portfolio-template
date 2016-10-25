@@ -3,7 +3,7 @@ Write a short sentence or two about this project and what it does. Be sure to in
 
 **Link to project:** http://recruiters-love-seeing-it-live.com/
 
-![alt tag](http://placecorgi.com/600/350)
+![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
